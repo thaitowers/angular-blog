@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 10;
+  box-sizing: border-box;
+  background-color: darkslategrey;
+  color: white;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+
+}
+a{
+  text-decoration: none;
+}

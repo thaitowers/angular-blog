@@ -1,0 +1,17 @@
+.container__menu-title{
+  color: aliceblue;
+  }
+  .container__menu-title > h1{
+    font-size: xx-large;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .container__menu-title > hr{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    justify-content: center;
+  }
